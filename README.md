@@ -1,4 +1,4 @@
-# 🏗️ Construction AI Assistant — Mini RAG
+#  Construction AI Assistant — Mini RAG
 
 A production-ready **Retrieval-Augmented Generation (RAG)** chatbot for a construction marketplace, built with Python, LangChain, FAISS, Sentence Transformers, and Streamlit.
 
