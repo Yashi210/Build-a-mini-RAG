@@ -1,0 +1,106 @@
+CONSTRUCTION MARKETPLACE — INTERNAL FAQ & POLICIES
+====================================================
+
+SECTION 1: PROJECT DELAYS
+--------------------------
+Q: What factors most commonly cause construction project delays?
+
+A: Construction project delays typically arise from the following key factors:
+
+1. Weather Conditions: Extreme weather such as heavy rain, snow, or high winds can halt outdoor work.
+   Projects in monsoon-prone or cold regions must build buffer time into schedules.
+
+2. Supply Chain Disruptions: Shortages of materials like steel, concrete, lumber, or specialized
+   equipment can stall progress. Post-pandemic supply chain issues have extended lead times by
+   4–12 weeks for many critical materials.
+
+3. Labour Shortages: Skilled tradesperson shortages (electricians, plumbers, structural engineers)
+   are a growing issue. Contractors should maintain pre-qualified subcontractor lists.
+
+4. Design Changes: Late-stage design revisions by clients add rework costs and delay approvals.
+   Change orders must be formally documented and signed before work proceeds.
+
+5. Permit and Regulatory Approvals: Delays in obtaining building permits, environmental clearances,
+   or inspections from municipal bodies are a leading cause of schedule slippage.
+
+6. Site Conditions: Unexpected underground conditions such as rock formations, old foundations,
+   or contaminated soil require remediation before construction can resume.
+
+7. Subcontractor Performance: Poor coordination between subcontractors, or a sub failing to
+   mobilise on time, creates cascade delays across dependent trades.
+
+8. Financing Issues: Delayed payment from project owners or financing gaps can cause work stoppages.
+
+
+SECTION 2: SAFETY REQUIREMENTS
+-------------------------------
+All contractors operating on the marketplace platform must comply with the following safety standards:
+
+Personal Protective Equipment (PPE):
+- Hard hats (Class E) are mandatory on all active construction sites.
+- High-visibility vests are required in areas with vehicle movement.
+- Steel-toed boots and gloves are required for all ground workers.
+- Harnesses and fall-arrest systems are mandatory for any work above 2 metres.
+
+Site Safety Plan:
+- Every project must have a written Site Safety Plan submitted before work begins.
+- The plan must identify hazards, mitigation measures, and emergency contacts.
+- A designated Safety Officer must be named for projects with more than 10 workers.
+
+Incident Reporting:
+- All injuries must be reported within 24 hours using the Incident Report Form.
+- Fatalities or serious injuries must be reported to the relevant regulatory authority
+  within 1 hour of occurrence.
+- Contractors with 3 or more incidents in 12 months will be suspended pending review.
+
+
+SECTION 3: CONTRACTOR PAYMENT POLICIES
+---------------------------------------
+Payment Schedule:
+- Payments are milestone-based: 20% on mobilisation, 40% at structural completion,
+  30% at practical completion, 10% on final handover.
+- Invoices must be submitted through the platform portal by the 25th of each month.
+- Payment is processed within 14 business days of invoice approval.
+
+Disputes:
+- Payment disputes must be raised in writing within 7 days of receiving a disputed invoice.
+- A neutral arbitrator will be assigned if the dispute is not resolved within 21 days.
+
+Retention:
+- A 5% retention is held until the defects liability period (typically 12 months) expires.
+- Retention is released within 30 days of the defects liability period end date.
+
+
+SECTION 4: TENDERING AND BID REQUIREMENTS
+------------------------------------------
+Eligibility:
+- All contractors must hold a valid trade licence for the category of work being tendered.
+- A minimum of 3 years trading history and 2 reference projects are required.
+- Contractors must carry public liability insurance of at least $5 million.
+
+Bid Submission:
+- Bids must be submitted at least 5 business days before the tender closing date.
+- A Bid Bond of 2% of the project value is required for projects over $500,000.
+- Late bids will not be accepted under any circumstances.
+
+Evaluation Criteria:
+- Price: 50%, Technical capability: 30%, Safety record: 20%.
+
+
+SECTION 5: QUALITY STANDARDS
+-----------------------------
+Material Standards:
+- All structural concrete must meet a minimum compressive strength of 25 MPa.
+- Steel reinforcement must comply with AS 4671 or equivalent international standard.
+- Imported materials must carry certification from the country of origin.
+
+Inspection Milestones:
+- Foundation inspection: before pouring concrete.
+- Framing inspection: before installing insulation or cladding.
+- Final inspection: before handover to the client.
+
+Defects Liability:
+- Contractors are responsible for rectifying defects reported within the 12-month
+  defects liability period at no additional cost to the client.
+- Failure to rectify within 14 days of notification entitles the client to engage
+  another contractor and deduct costs from the retention.
